@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Matheus Sena and I'm currently 24 years old,<br> work on <a href="https://www.linkedin.com/company/c&a_brasil/mycompany/">C&A Modas</a> as an System analyst.
+Hi, my name is Matheus Sena and I'm currently 24 years old, work on <a href="https://www.linkedin.com/company/c&a_brasil/mycompany/">C&A Modas</a> as an System analyst.
 I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://www.python.org/">Python</a> and <a href="https://www.typescriptlang.org/">Typescript</a>
 - See my profile on Linkedin
 [LinkedIn](https://linkedin.com/in/tuliofaria)
