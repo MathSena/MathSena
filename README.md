@@ -9,7 +9,7 @@ I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://www.p
 ![Matheus Sena's github stats](https://github-readme-stats.vercel.app/api?username=MathSena&show_icons=true&theme=synthwave)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathSena&layout=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathSena&layout=content)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
