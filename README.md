@@ -6,10 +6,10 @@ I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://www.p
 [LinkedIn](https://linkedin.com/in/tuliofaria)
 - 📫 Send me an email: <a href="mailto:MathSena07@hotmail.com">MathSena07@hotmail.com</a>
 
-![Matheus Sena's github stats](https://github-readme-stats.vercel.app/api?username=MathSena&show_icons=true&theme=synthwave)
+![Matheus Sena's github stats](https://github-readme-stats.vercel.app/api?username=MathSena&show_icons=true&theme=yeblu)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathSena&layout=content)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathSena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
