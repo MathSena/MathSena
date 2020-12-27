@@ -8,7 +8,7 @@ I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://www.p
 
 ![Matheus Sena's github stats](https://github-readme-stats.vercel.app/api?username=MathSena&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathSena)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathSena&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MathSena/MathSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
