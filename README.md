@@ -8,7 +8,7 @@ I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://angul
 - 📫 Send me an email: <a href="mailto:MathSena07@hotmail.com">MathSena07@hotmail.com</a>
 
 <div align="center">
-  <a href="https://github.com/Pleiterson">
+  <a href="https://github.com/MathSena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathSena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MathSena&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
