@@ -47,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathSena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MathSena&layout=compact&langs_count=15&theme=tokyonight" />
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathsena&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&layout=compac&align="center")](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=MathSena&theme=bear&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 <!--
