@@ -42,11 +42,8 @@
   [![GitHub Followers](https://img.shields.io/github/followers/MathSena?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/MathSena)
 </div>
 
-<div>
-  <a href="https://github.com/MathSena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathSena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MathSena&layout=compact&langs_count=15&theme=tokyonight" />
-   
+<div align=center">
+ 
  [![GitHub Streak](https://streak-stats.demolab.com?user=MathSena&theme=bear&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
 </div>
 
