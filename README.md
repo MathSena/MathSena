@@ -2,7 +2,8 @@
 # Hello There, I'm Matheus Sena 👋
 ## Welcome! 👋
 
- ☕ Developer Back - End | Front - End | Full - Stack 🏡 Embu das Artes 🌎 Brazil 
+ ☕ Developer Back - End | Front - End | Full - Stack <br>
+ 🏡 São Paulo 🌎 Brazil 
 
 - 💻 I’m currently working as System Analyst at [C&A Modas](https://www.cea.com.br/)
 - 🚀 I’m learning about Front-End develoment and Java 
@@ -29,7 +30,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://react.dev/" target="_blank"> <img align="center" alt="React" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </a>
+ <a href="https://react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="40" width="40" > </a>
 </p>
 </h3>
 
