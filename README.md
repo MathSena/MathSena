@@ -5,7 +5,7 @@
  ☕ Developer Back - End | Front - End | Full - Stack <br>
  🏡 São Paulo 🌎 Brazil 
 
-- 💻 I’m currently working as System Analyst at [C&A Modas](https://www.cea.com.br/)
+- 💻 I’m currently working as Java Developer at Kwan in Portugal
 - 🚀 I’m learning about Front-End develoment and Java 
 - 🌎 I'm from Embu das Artes - São Paulo - Brazil
 - 🎸 I love music, my favorite artists are The Beatles, Foo Fighters, Amy Winehouse, Metallica, Queen and others.
