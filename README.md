@@ -3,7 +3,7 @@
 ## Welcome! 👋
 
  ☕ Developer Back - End | Front - End | Full - Stack <br>
- 🏡 São Paulo 🌎 Brazil 
+ 🏡 Lisbon 🌎 Portugal 
 
 - 💻 I’m currently working as Java Developer at Kwan in Portugal
 - 🚀 I’m learning about Front-End develoment and Java 
